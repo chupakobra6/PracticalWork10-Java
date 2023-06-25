@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/getAvatarImage"
+        android:title="Сделать новый аватар" />
+    <item
+        android:id="@+id/chooseAvatarImage"
+        android:title="Выбрать новый аватар" />
+    <item
+        android:id="@+id/getCoverImage"
+        android:title="Сделать новую обложку" />
+    <item
+        android:id="@+id/chooseCoverImage"
+        android:title="Выбрать новую обложку" />
+    <item
+        android:id="@+id/recordVideo"
+        android:title="Снять видео для обложки" />
+</menu>
